@@ -103,6 +103,9 @@ Basic AI movement strategy
 Unit testing in React Native
 
 Android APK generation
+## 📸 Gameplay Screenshot
+
+![Gameplay Screenshot](assets/screenshot.png)
 
 ---
 👨‍💻 Author
